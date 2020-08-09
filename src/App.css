@@ -27,14 +27,56 @@
   margin-bottom: 1em;
 }
 
-.card{
+.wrap-card{
   display: flex;
   flex-direction: column;
-  background-color: #3b8fff;
   justify-content: center;
   align-items: center;
-  border-radius: 4px;
+  
   padding: 10px;
+  perspective: 1000px;
+  -webkit-perspective: 1000px;
+  position: relative;
+  width: 240px;
+  
+}
+
+.card{
+  position: relative;
+  height: 300px;
+  width: 240px;
+  transform-style: preserve-3d;
+  transition:  .7s ease;
+  border-radius: 12px;
+  background-color: #211f24e7;
+}
+
+.front-card, .back-card{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  /* top: 0; */
+  /* left: 0; */
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  margin-top: 25px;
+
+}
+
+.front-card img {
+  width: 70%;
+  height: 70%;
+
+}
+.back-card{
+  transform: rotateY(180deg);
+}
+
+.wrap-card:hover .card{
+  transform: rotateY(180deg);
 }
 
 .Grass{

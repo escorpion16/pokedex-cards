@@ -16,7 +16,7 @@ function App(){
       "Grass",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "sprite": "https://professorlotus.com/Sprites/Bulbasaur.gif",
     "base": {
       "HP": 45,
       "Attack": 49,
@@ -38,7 +38,7 @@ function App(){
       "Grass",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "sprite": "https://professorlotus.com/Sprites/Ivysaur.gif",
     "base": {
       "HP": 60,
       "Attack": 62,
@@ -60,7 +60,7 @@ function App(){
       "Grass",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "sprite": "https://i.pinimg.com/originals/bd/f7/63/bdf763ebd5d86133a3a53497f006dab4.gif",
     "base": {
       "HP": 80,
       "Attack": 82,
@@ -81,7 +81,7 @@ function App(){
     "type": [
       "Fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "sprite": "https://professorlotus.com/Sprites/Charmander.gif",
     "base": {
       "HP": 39,
       "Attack": 52,
@@ -102,7 +102,7 @@ function App(){
     "type": [
       "Fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "sprite": "https://professorlotus.com/Sprites/Charmeleon.gif",
     "base": {
       "HP": 58,
       "Attack": 64,
@@ -124,7 +124,7 @@ function App(){
       "Fire",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "sprite": "https://professorlotus.com/Sprites/Charizard.gif",
     "base": {
       "HP": 78,
       "Attack": 84,
@@ -145,7 +145,7 @@ function App(){
     "type": [
       "Water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "sprite": "https://pokefarm.com/upload/Ashuna/Squirtle.gif",
     "base": {
       "HP": 44,
       "Attack": 48,
@@ -166,7 +166,7 @@ function App(){
     "type": [
       "Water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "sprite": "https://professorlotus.com/Sprites/Wartortle.gif",
     "base": {
       "HP": 59,
       "Attack": 63,
@@ -187,7 +187,7 @@ function App(){
     "type": [
       "Water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "sprite": "https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/blastoise.gif",
     "base": {
       "HP": 79,
       "Attack": 83,
@@ -208,7 +208,7 @@ function App(){
     "type": [
       "Bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "sprite": "https://professorlotus.com/Sprites/Caterpie.gif",
     "base": {
       "HP": 45,
       "Attack": 30,
@@ -229,7 +229,7 @@ function App(){
     "type": [
       "Bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "sprite": "https://professorlotus.com/Sprites/Metapod.gif",
     "base": {
       "HP": 50,
       "Attack": 20,
@@ -251,7 +251,7 @@ function App(){
       "Bug",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "sprite": "https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/butterfree.gif",
     "base": {
       "HP": 60,
       "Attack": 45,
@@ -273,7 +273,7 @@ function App(){
       "Bug",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "sprite": "https://professorlotus.com/Sprites/Weedle.gif",
     "base": {
       "HP": 40,
       "Attack": 35,
@@ -295,7 +295,7 @@ function App(){
       "Bug",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "sprite": "https://professorlotus.com/Sprites/Kakuna.gif",
     "base": {
       "HP": 45,
       "Attack": 25,
@@ -317,7 +317,7 @@ function App(){
       "Bug",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "sprite": "https://pa1.narvii.com/7390/106ebd63c8023516900a26cccde92801667e3305r1-560-570_hq.gif",
     "base": {
       "HP": 65,
       "Attack": 90,
@@ -339,7 +339,7 @@ function App(){
       "Normal",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "sprite": "https://forums.pokemmo.eu/uploads/monthly_2020_08/Pidgey.gif.8a8c19cd2a3bb2693d771df76f47f404.gif",
     "base": {
       "HP": 40,
       "Attack": 45,
@@ -361,7 +361,7 @@ function App(){
       "Normal",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "sprite": "https://professorlotus.com/Sprites/Pidgeotto.gif",
     "base": {
       "HP": 63,
       "Attack": 60,
@@ -383,7 +383,7 @@ function App(){
       "Normal",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "sprite": "https://professorlotus.com/Sprites/Pidgeot.gif",
     "base": {
       "HP": 83,
       "Attack": 80,
@@ -404,7 +404,7 @@ function App(){
     "type": [
       "Normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "sprite": "https://professorlotus.com/Sprites/Rattata.gif",
     "base": {
       "HP": 30,
       "Attack": 56,
@@ -425,7 +425,7 @@ function App(){
     "type": [
       "Normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "sprite": "https://professorlotus.com/Sprites/Raticate.gif",
     "base": {
       "HP": 55,
       "Attack": 81,
