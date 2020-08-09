@@ -1,0 +1,66 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em 0em;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 40px;
+  row-gap: 20px;
+  padding: 0% 5%;
+  width: 85%;
+}
+
+.types{
+  display: inline-block;
+  background-color: chocolate;
+  padding: 5px 10px;
+  margin-right: 10px;
+  color: #FFF;
+  border-radius: 4px;
+}
+
+.filters{
+  margin-bottom: 1em;
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  background-color: #3b8fff;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.Grass{
+  background-color: #34ad43;
+}
+
+.Poison{
+  background-color: #472ba5;
+}
+
+.Fire{
+  background-color: #ea441f;
+}
+
+.Water{
+  background-color: #1dd8d0;
+}
+
+.Flying{
+  background-color: #1d83d8;
+}
+
+.Bug{
+  background-color: #1dd84a;
+}
+
+.Normal{
+  background-color: #c7d81d;
+}
