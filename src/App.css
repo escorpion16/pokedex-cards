@@ -2,7 +2,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2em 0em;
+  padding: 2em 0em; 
+  background-color:rgb(19, 20, 22); 
 }
 
 .App {
@@ -38,7 +39,6 @@
   -webkit-perspective: 1000px;
   position: relative;
   width: 240px;
-  
 }
 
 .card{
@@ -48,36 +48,39 @@
   transform-style: preserve-3d;
   transition:  .7s ease;
   border-radius: 12px;
-  background-color: #211f24e7;
+  background-color: #37343be7;
+  color: #fff;
+  border:5px solid #1086e8;
+  box-shadow: 0 0 30px #03f;
 }
 
 .front-card, .back-card{
   width: 100%;
   height: 100%;
   position: absolute;
-  /* top: 0; */
-  /* left: 0; */
+  
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   flex-direction: column;
   align-items: center;
   display: flex;
-  margin-top: 25px;
-
 }
 
 .front-card img {
   width: 70%;
   height: 70%;
-
+  margin-top: 30px;
 }
+
 .back-card{
   transform: rotateY(180deg);
+  line-height: 8px;
 }
 
 .wrap-card:hover .card{
   transform: rotateY(180deg);
 }
+
 
 .Grass{
   background-color: #34ad43;
@@ -105,4 +108,12 @@
 
 .Normal{
   background-color: #c7d81d;
+}
+
+.list-powers{
+  width: 80%;
+}
+
+.btn-power{
+  padding-top: 20px;
 }
