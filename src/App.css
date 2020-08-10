@@ -61,6 +61,8 @@
   
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
+  -moz-backface-visibility:hidden;
+  
   flex-direction: column;
   align-items: center;
   display: flex;

@@ -3,8 +3,8 @@ import Card from './components/card';
 import './App.css';
 
 function App(){
-  const [types, setTypes]  = useState(["Grass", "Poison", "Fire", "Water", "Flying", "Bug", "Normal"])
-  const [pokemons, setPokemons] = useState([{
+  const [types]  = useState(["Grass", "Poison", "Fire", "Water", "Flying", "Bug", "Normal"])
+  const [pokemons] = useState([{
     "id": 1,
     "name": {
       "english": "Bulbasaur",

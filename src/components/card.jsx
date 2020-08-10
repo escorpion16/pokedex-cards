@@ -28,12 +28,6 @@ export default function Card(props){
                             <h3>Speed</h3>
                             <LinearProgress variant="determinate" value={props.powerPokemon.Speed} />
                         </div>
-                        {/* <ul>
-                            <li>HP: {props.powerPokemon.HP}</li>
-                            <li>Attack: {props.powerPokemon.Attack}</li>
-                            <li>Defense: {props.powerPokemon.Defense}</li>
-                            <li>Speed: {props.powerPokemon.Speed}</li>
-                        </ul> */}
                     </div>
                     <div className="btn-power">
                         {props.pokemon.type.map(type => {
